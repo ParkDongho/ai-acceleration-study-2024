@@ -9,5 +9,5 @@ AI Acceleration Study 2024
 - **WEEK 4** : Network on Chip [[list]](https://parkdongho.github.io/paper-review/archive/?tags=architecture,noc)
 
 # Contributor
-- Dongho Park [github](https://github.com/parkdongho)
+- Dongho Park [[github]](https://github.com/parkdongho)
 - Daehee Kang 
