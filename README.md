@@ -1,7 +1,7 @@
 AI Acceleration Study 2024
 ===
 
-**tags:** #dense, #sparse, #fixed, #flexible, #noc
+**tags:** [#dense](https://parkdongho.github.io/paper-review/archive/?tags=paper-review,dense), #sparse, #fixed, #flexible, #noc
 
 # Schedule
 - **WEEK 1** : Fixed Dataflow (Dense) [[list]](https://parkdongho.github.io/paper-review/archive/?tags=architecture,dense)
